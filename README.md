@@ -127,7 +127,7 @@ index=botsv3 sourcetype="stream:http"
 | Failed Login Attempts | 5 |
 | Privilege Escalation Events | 419 |
 | Successful Logins | 427 |
-| Login Failures Over Time | Chart showing 2019-2026 |
+| Login Failures Over Time | Chart 2019-2026 |
 | Top Targeted Accounts | Guest, MalloryKraeusen, SEPM$ |
 | Data Exfiltration Traffic | 109MB+ transfers detected |
 
@@ -136,28 +136,28 @@ index=botsv3 sourcetype="stream:http"
 ## 📸 Screenshots
 
 ### Splunk Home Dashboard
-![Splunk Home](screenshots/splunk-home_png.png)
+![Splunk Home](splunk-home.png)
 
-### Windows Logs Ingestion (147 events)
-![Windows Logs](screenshots/windows_logs_PNG.PNG)
+### Windows Logs Ingestion
+![Windows Logs](windows_logs.PNG)
 
 ### BOTS v3 Dataset Loaded
-![BOTS Dataset](screenshots/bot_net_PNG.PNG)
+![BOTS Dataset](bot_net.PNG)
 
 ### Brute Force Detection — MITRE T1110
-![Brute Force](screenshots/brute-force-detection_PNG.PNG)
+![Brute Force](brute-force-detection.PNG)
 
 ### Privilege Escalation Detection — MITRE T1078
-![Privilege Escalation](screenshots/escalation_PNG.PNG)
+![Privilege Escalation](escalation.PNG)
 
 ### Lateral Movement Detection — MITRE T1021
-![Lateral Movement](screenshots/lateral_moment_PNG.PNG)
+![Lateral Movement](lateral_moment.PNG)
 
 ### Data Exfiltration Detection — MITRE T1041
-![Data Exfiltration](screenshots/data-extrafi_teration_PNG.PNG)
+![Data Exfiltration](data-extrafi_teration.PNG)
 
 ### SOC Monitoring Dashboard
-![SOC Dashboard](screenshots/soc-dashboard_PNG.PNG)
+![SOC Dashboard](soc-dashboard.PNG)
 
 ---
 
